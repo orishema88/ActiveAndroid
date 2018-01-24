@@ -290,7 +290,7 @@ public class Configuration {
 					}
 				}
 				catch (ClassNotFoundException e) {
-					Log.e("ORI","Couldn't create class.");
+
 				}
 			}
 
@@ -308,7 +308,7 @@ public class Configuration {
 					}
 				}
 				catch (ClassNotFoundException e) {
-					Log.e("ORI","Couldn't create class.");
+
 				}
 			}
 
